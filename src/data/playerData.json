@@ -1,0 +1,85 @@
+[{
+    "id": 1,
+    "name": "Filip Nepejchal",
+    "country": "Czechia",
+    "gender": "Male",
+    "img": "https://www.sportovecplzne.cz/wp-content/uploads/2017/03/Filip-Nepejchal-01.jpg",
+    "salary": 10000
+  }, {
+    "id": 2,
+    "name": "Yang Haoran",
+    "country": "china",
+    "gender": "Male",
+    "img": "https://amp.thenationalnews.com/image/policy:1.233955:1499335012/image/jpeg.jpg?f=16x9&w=1200&$p$f$w=dfa40e8",
+    "salary": 9000
+  }, {
+    "id": 3,
+    "name": "Sergey Kamenskiy",
+    "country": "Russia",
+    "gender": "Male",
+    "img": "https://www.insidethegames.biz/media/image/67260/o/Kamenskiy.jpg",
+    "salary": 8000
+  }, {
+    "id": 4,
+    "name": "Vincent Hancock",
+    "country": "United States",
+    "gender": "Male",
+    "img": "https://www.sportsthat.in/media/uploads/players/shooting/vincent_hancock_sportsthat.jpg",
+    "salary": 7000
+  }, {
+    "id": 5,
+    "name": "Alberto Fernandez",
+    "country": "Spain",
+    "gender": "Male",
+    "img": "https://i.ytimg.com/vi/MRtE1EKS8gk/hqdefault.jpg",
+    "salary": 6000
+  }, {
+    "id": 6,
+    "name": "Oliver Geis",
+    "country": "Germany",
+    "gender": "Male",
+    "img": "https://www.dsb.de/fileadmin/_processed_/e/1/csm_1252-Geis_Oliver_2019-1_cd87228802.jpg",
+    "salary": 5000
+  }, {
+    "id": 7,
+    "name": "Azmy Mehelba",
+    "country": "Egypt",
+    "gender": "Male",
+    "img": "https://dneegypt.nyc3.digitaloceanspaces.com/2018/09/2014-635476754564746144-474_485x310.jpg",
+    "salary": 4000
+  }, {
+    "id": 8,
+    "name": "Niccolò Campriani",
+    "country": "Italy",
+    "gender": "Male",
+    "img": "https://www.indianshooting.com/wp-content/uploads/campriani.jpg",
+    "salary": 3000
+  }, {
+    "id": 9,
+    "name": "Lin Junmin",
+    "country": "China",
+    "gender": "Male",
+    "img": "https://www.insidethegames.biz/media/image/162476/o/headline_img.jpg",
+    "salary": 2000
+  }, {
+    "id": 10,
+    "name": "Damir Mikec",
+    "country": "Croatia",
+    "gender": "Male",
+    "img": "http://images.happytv.tv/var/albums/damir%20mikec.PNG?m=1580827341",
+    "salary": 1000
+  }, {
+    "id": 11,
+    "name": "Andreas Loew",
+    "country": "Germany",
+    "gender": "Male",
+    "img": "https://editorial01.shutterstock.com/wm-preview-1500/8422724nb/636c6f18/brazil-rio-2016-olympic-games-aug-2016-shutterstock-editorial-8422724nb.jpg",
+    "salary": 1000
+  }, {
+    "id": 12,
+    "name": "Petar Gorša",
+    "country": "Croatia",
+    "gender": "Male",
+    "img": "https://www.sportilus.com/uploads/articles/petar-gorsa-26e41.jpg",
+    "salary": 1000
+  }]
