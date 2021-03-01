@@ -1,0 +1,19 @@
+.header {
+  text-align: center;
+}
+.header-name {
+  font-size: 60px;
+}
+.header nav {
+  background-color: skyblue;
+  line-height: 40px;
+  font-size: 30px;
+}
+nav a {
+  text-decoration: none!;
+  color: white;
+  margin-right: 20px;
+}
+nav a:hover {
+  background-color: rgba(211, 211, 211, 0.7);
+}

@@ -4,20 +4,15 @@
     "country": "Czechia",
     "gender": "Male",
     "img": "https://www.sportovecplzne.cz/wp-content/uploads/2017/03/Filip-Nepejchal-01.jpg",
+    "age": "21",
     "salary": 10000
-  }, {
-    "id": 2,
-    "name": "Yang Haoran",
-    "country": "china",
-    "gender": "Male",
-    "img": "https://amp.thenationalnews.com/image/policy:1.233955:1499335012/image/jpeg.jpg?f=16x9&w=1200&$p$f$w=dfa40e8",
-    "salary": 9000
-  }, {
+  },  {
     "id": 3,
     "name": "Sergey Kamenskiy",
     "country": "Russia",
     "gender": "Male",
     "img": "https://www.insidethegames.biz/media/image/67260/o/Kamenskiy.jpg",
+    "age": "33",
     "salary": 8000
   }, {
     "id": 4,
@@ -25,6 +20,7 @@
     "country": "United States",
     "gender": "Male",
     "img": "https://www.sportsthat.in/media/uploads/players/shooting/vincent_hancock_sportsthat.jpg",
+    "age": "31",
     "salary": 7000
   }, {
     "id": 5,
@@ -32,6 +28,7 @@
     "country": "Spain",
     "gender": "Male",
     "img": "https://i.ytimg.com/vi/MRtE1EKS8gk/hqdefault.jpg",
+    "age": "37",
     "salary": 6000
   }, {
     "id": 6,
@@ -39,6 +36,7 @@
     "country": "Germany",
     "gender": "Male",
     "img": "https://www.dsb.de/fileadmin/_processed_/e/1/csm_1252-Geis_Oliver_2019-1_cd87228802.jpg",
+    "age": "29",
     "salary": 5000
   }, {
     "id": 7,
@@ -46,6 +44,7 @@
     "country": "Egypt",
     "gender": "Male",
     "img": "https://dneegypt.nyc3.digitaloceanspaces.com/2018/09/2014-635476754564746144-474_485x310.jpg",
+    "age": "29",
     "salary": 4000
   }, {
     "id": 8,
@@ -53,6 +52,7 @@
     "country": "Italy",
     "gender": "Male",
     "img": "https://www.indianshooting.com/wp-content/uploads/campriani.jpg",
+    "age": "33",
     "salary": 3000
   }, {
     "id": 9,
@@ -60,6 +60,7 @@
     "country": "China",
     "gender": "Male",
     "img": "https://www.insidethegames.biz/media/image/162476/o/headline_img.jpg",
+    "age": "24",
     "salary": 2000
   }, {
     "id": 10,
@@ -67,6 +68,7 @@
     "country": "Croatia",
     "gender": "Male",
     "img": "http://images.happytv.tv/var/albums/damir%20mikec.PNG?m=1580827341",
+    "age": "36",
     "salary": 1000
   }, {
     "id": 11,
@@ -74,6 +76,7 @@
     "country": "Germany",
     "gender": "Male",
     "img": "https://editorial01.shutterstock.com/wm-preview-1500/8422724nb/636c6f18/brazil-rio-2016-olympic-games-aug-2016-shutterstock-editorial-8422724nb.jpg",
+    "age": "39",
     "salary": 1000
   }, {
     "id": 12,
@@ -81,5 +84,14 @@
     "country": "Croatia",
     "gender": "Male",
     "img": "https://www.sportilus.com/uploads/articles/petar-gorsa-26e41.jpg",
+    "age": "33",
     "salary": 1000
+  }, {
+    "id": 2,
+    "name": "Yang Haoran",
+    "country": "china",
+    "gender": "Male",
+    "img": "https://amp.thenationalnews.com/image/policy:1.233955:1499335012/image/jpeg.jpg?f=16x9&w=1200&$p$f$w=dfa40e8",
+    "age": "25",
+    "salary": 9000
   }]

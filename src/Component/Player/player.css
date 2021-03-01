@@ -1,0 +1,17 @@
+.player img {
+  width: 300px;
+  height: 200px;
+}
+.player {
+  box-shadow: 5px 5px 10px gray;
+  width: 300px;
+  border-radius: 5px;
+  margin: 10px;
+  text-align: center;
+}
+.player button {
+  background-color: skyblue;
+  width: 200px;
+  border: none;
+  margin-bottom: 5px;
+}
